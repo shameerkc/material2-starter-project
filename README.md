@@ -1,4 +1,11 @@
-# Material2StarterProject
+# Material2 Starter Project
+
+Checkout [How to Bootstrap your First Material-2 Project](https://github.com/shameerkc/techblog/blob/master/Bootstrapping_Material2_Project.md) for more details on this project.
+
+# Pending Jobs
+* Include an example for the Router usage.
+
+## AUTO ADDED NOTES BELOW BY ANGULAR-CLI
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
